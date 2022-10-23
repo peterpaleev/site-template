@@ -1,0 +1,6 @@
+.about{
+    display: grid;
+    grid-template-columns: min-content min-content;
+    grid-template-rows: min-content min-content;
+    gap: 40px;
+}
