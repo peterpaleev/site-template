@@ -1,0 +1,7 @@
+.card__container{
+    display: flex;
+    flex-direction: column;
+}
+.card__container:first-of-type{
+    border-right: 5px solid #C5C5C5;
+}

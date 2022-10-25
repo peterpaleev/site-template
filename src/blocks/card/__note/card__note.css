@@ -1,0 +1,12 @@
+.card__note{
+    font-size: 12px;
+    margin: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.card__note:first-of-type{
+    padding-top: 10px;
+}
+.card__note:last-of-type{
+    padding-bottom: 10px;
+}

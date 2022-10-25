@@ -1,0 +1,8 @@
+.card__list-item{
+    margin-bottom: 5px;
+}
+.card__list-item:nth-child(even) {
+    justify-self: end;
+    align-self: end;
+    font-weight: bold;
+}
